@@ -1,58 +1,51 @@
 [
   {
-    "id": "1",
-    "name": "Birkenstok",
-    "price": "",
-    "url": "",
-    "note": "",
-    "priority": "high"
-  },
-  {
-    "id": "2",
-    "name": "Tøfler",
-    "price": "",
-    "url": "",
-    "note": "",
-    "priority": "high"
-  },
-  {
-    "id": "3",
-    "name": "Sykkelcomputer",
-    "price": "",
-    "url": "",
-    "note": "",
-    "priority": "high"
-  },
-  {
-    "id": "4",
-    "name": "Wattpedaler",
-    "price": "",
-    "url": "",
-    "note": "",
-    "priority": "high"
-  },
-  {
-    "id": "5",
-    "name": "Sykkelklær",
-    "price": "",
-    "url": "",
-    "note": "",
-    "priority": "high"
-  },
-  {
-    "id": "6",
-    "name": "Comfyballs Boxers XL Cotton",
-    "price": "",
-    "url": "",
-    "note": "",
-    "priority": "high"
-  },
-  {
-    "id": "7",
     "name": "Bambu Lab P2S Combo - 3D-Printer",
     "price": "",
     "url": "https://www.elefun.no/vare-70768/3d-print-printere-bambu-lab-p2s-combo-printer",
     "note": "",
-    "priority": "high"
+    "priority": 2
+  },
+  {
+    "name": "Birkenstok",
+    "price": "",
+    "url": "",
+    "note": "",
+    "priority": 1
+  },
+  {
+    "name": "Tøfler",
+    "price": "",
+    "url": "",
+    "note": "",
+    "priority": 1
+  },
+  {
+    "name": "Sykkelcomputer",
+    "price": "",
+    "url": "",
+    "note": "",
+    "priority": 2
+  },
+  {
+    "name": "Wattpedaler",
+    "price": "",
+    "url": "",
+    "note": "",
+    "priority": 2
+  },
+  {
+    "name": "Sykkelklær",
+    "price": "",
+    "url": "",
+    "note": "Bib, jersey, hvite sokker, langermet trøye, osv",
+    "priority": 2
+  },
+  {
+    "name": "Comfyballs Long XL Cotton",
+    "price": "",
+    "url": "https://www.comfyballs.no/butikk/herre/cotton/comfyballs-ghost-black/",
+    "note": "",
+    "priority": 1
   }
 ]

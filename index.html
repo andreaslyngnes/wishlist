@@ -175,9 +175,9 @@
 
 <script>
 const GROUPS = [
-  {key:'high',   title:'Mest ønsket',   cls:'top'},
-  {key:'normal', title:'Hadde vært fint', cls:''},
-  {key:'low',    title:'Småting',  cls:''}
+  {key:1, title:'Mest ønsket',   cls:'top'},
+  {key:2, title:'Hadde vært fint', cls:''},
+  {key:3, title:'Småting',  cls:''}
 ];
 
 const esc = s => {
@@ -193,7 +193,7 @@ function render(items){
 
   let n = 0;
   const html = GROUPS.map(g=>{
-    const list = items.filter(i => (i.priority || 'normal') === g.key);
+    const list = items.filter(i => Number(i.priority || 2) === g.key);
     if(!list.length) return '';
     const cards = list.map(i=>{
       n++;
