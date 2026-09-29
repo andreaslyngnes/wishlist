@@ -1,7 +1,7 @@
 [
   {
     "name": "Bambu Lab P2S Combo - 3D-Printer",
-    "price": "",
+    "price": "Dyrt",
     "url": "https://www.elefun.no/vare-70768/3d-print-printere-bambu-lab-p2s-combo-printer",
     "note": "",
     "priority": 2
@@ -22,14 +22,14 @@
   },
   {
     "name": "Sykkelcomputer",
-    "price": "",
+    "price": "Dyrt",
     "url": "",
     "note": "",
     "priority": 2
   },
   {
     "name": "Wattpedaler",
-    "price": "",
+    "price": "Dyrt",
     "url": "",
     "note": "",
     "priority": 2
@@ -45,7 +45,7 @@
     "name": "Comfyballs Long XL Cotton",
     "price": "",
     "url": "https://www.comfyballs.no/butikk/herre/cotton/comfyballs-ghost-black/",
-    "note": "",
+    "note": "Helst i mørk farge, men kan også være i lys farge. Størrelse XL Long. Kan være en annen modell en den som er linket.",
     "priority": 1
   }
 ]
