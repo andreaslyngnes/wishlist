@@ -1,0 +1,58 @@
+[
+  {
+    "id": "1",
+    "name": "Birkenstok",
+    "price": "500 kr",
+    "url": "",
+    "note": "",
+    "priority": "high"
+  },
+  {
+    "id": "2",
+    "name": "Tøfler",
+    "price": "",
+    "url": "",
+    "note": "",
+    "priority": "high"
+  },
+  {
+    "id": "3",
+    "name": "Sykkelcomputer",
+    "price": "",
+    "url": "",
+    "note": "",
+    "priority": "high"
+  },
+  {
+    "id": "4",
+    "name": "Wattpedaler",
+    "price": "",
+    "url": "",
+    "note": "",
+    "priority": "high"
+  },
+  {
+    "id": "5",
+    "name": "Sykkelklær",
+    "price": "",
+    "url": "",
+    "note": "",
+    "priority": "high"
+  },
+  {
+    "id": "6",
+    "name": "Comfyballs Boxers XL Cotton",
+    "price": "",
+    "url": "",
+    "note": "",
+    "priority": "high"
+  },
+  {
+    "id": "7",
+    "name": "Bambu Lab P2S Combo - 3D-Printer",
+    "price": "",
+    "url": "https://www.elefun.no/vare-70768/3d-print-printere-bambu-lab-p2s-combo-printer",
+    "note": "",
+    "priority": "high"
+  }
+]
