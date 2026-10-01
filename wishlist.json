@@ -24,14 +24,14 @@
     "name": "Sykkelcomputer",
     "price": "Dyrt",
     "url": "",
-    "note": "",
+    "note": "Garmin, Wahoo, Hammerhead, osv. Trenger ikke være den nyeste modellen.",
     "priority": 2
   },
   {
-    "name": "Wattpedaler",
+    "name": "Wattmåler",
     "price": "Dyrt",
-    "url": "",
-    "note": "",
+    "url": "https://bikeshop.no/4iiii/nyprecision3/4iiii-precision-3-wattm%C3%A5ler-ensidig-800t-batteri-plus-1pcnt",
+    "note": "Enten krank eller pedaler.",
     "priority": 2
   },
   {
